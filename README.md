@@ -44,7 +44,6 @@ Once the contract is deployed, you can interact with it by calling the MyToken f
 
 # Authors
 Marl Shane G. Esteron
-@marlshane23
 
 # License
 This project is licensed under the Marl Shane Esteron License - see the LICENSE.md file for details
